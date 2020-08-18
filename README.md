@@ -1,6 +1,6 @@
 # I've joined the #301DaysOfCode Challenge.
 
-I, meera menon joined this challenge today, 4th june 2020 and just forked the repo from benjaminspark
+I, Sandeep Pokhrel joined this challenge today, 4th june 2020 and just forked the repo from benjaminspark
 
 ## Contents
 * [Rules](rules.md)
